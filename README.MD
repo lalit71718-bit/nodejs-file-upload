@@ -36,3 +36,8 @@ A simple file upload application built with Node.js, Express, Multer, and EJS.
 ## Learning Goals
 
 This project helped me practice Express routes, middleware, file uploads, and server-side rendering with EJS.
+
+## Future Improvements
+
+- Add file type validation.
+- Add file size limits.
